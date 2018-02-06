@@ -1,9 +1,9 @@
 # YoloLearning
-##Abstract:
+## Abstract:
 Reinforcement learning in 3d games using YOLO image recognition as input
-##Contributors
+## Contributors
 Edward Piper
-##Timeline:
+## Timeline:
 ### Step 1:
 Learn how to use AWS 1-2wk
 ### Step 2:
@@ -16,7 +16,7 @@ Send these images to YOLO/ train yolo
 Send yolo output to another model
 ### Step 6
 profit???
-##Conclusion:
+## Conclusion:
 hopefully this will be cool
-##References:
+## References:
 https://pjreddie.com/darknet/yolo/
